@@ -449,11 +449,11 @@
 		display: block;
 	}
 	.input-box{
-		width: 320px;
+		width: 100%;
 		font-size: 16px;
 	}
 	.msg{
-		width: 320px;
+		width: 100%;
 		font-size: 16px;
 	}
 	.send{
